@@ -1,4 +1,20 @@
-E-Commerce website with MongoDB Database
-MERN full stack development
-JAZZCASH to EASYPAISA payment simulation
-Backend, frontend (admin) and frontend (client) incorporated
+# MERN E-Commerce Website
+
+A full-stack e-commerce application built using the MERN stack with payment simulation (JAZZCASH to EASYPAISA payment).
+
+## Tech Stack
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+## Features
+- User authentication
+- Product management
+- Cart & checkout
+- Payment integration (JAZZCASH to EASYPAISA payment simulation)
+
+## Setup Instructions
+```bash
+npm install
+npm run dev
