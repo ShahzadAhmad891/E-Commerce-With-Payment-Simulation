@@ -9,7 +9,7 @@ A full-stack e-commerce application built using the MERN stack with payment simu
 - Node.js
 
 ## Features
-- User authentication
+- Admin authentication
 - Product management
 - Cart & checkout
 - Payment integration (JAZZCASH to EASYPAISA payment simulation)
